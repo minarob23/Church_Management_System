@@ -10,7 +10,7 @@
 The Church Management System is a comprehensive tool aimed at helping churches and religious organizations streamline their administrative tasks. By leveraging the power of Python and SQL, this system provides a user-friendly interface for managing member records, events, donations, and more.
 
 # Video Guide
-For a detailed walkthrough on how to use this project, refer to the video linked below:
+For a detailed walkthrough on how to use this project, refer to the video linked [**here**](https://github.com/minarob23/Church_Management_System/blob/main/intro.mp4))
 
 # Features
 * Member Management: Keep track of all members' contact information and engagement in church activities.
@@ -59,4 +59,4 @@ The database consists of the following tables:
 * **users**: Handles user authentication and roles.
 
 # License
-This project is licensed under the MIT License. See the LICENSE file for more details.
+This project is licensed under the MIT License. See the [**LICENSE**](https://github.com/minarob23/Church_Management_System/blob/main/LICENSE) file for more details.
