@@ -9,6 +9,9 @@
 # Overview
 The Church Management System is a comprehensive tool aimed at helping churches and religious organizations streamline their administrative tasks. By leveraging the power of Python and SQL, this system provides a user-friendly interface for managing member records, events, donations, and more.
 
+# Video Guide
+For a detailed walkthrough on how to use this project, refer to the video linked below:
+
 # Features
 * Member Management: Keep track of all members' contact information and engagement in church activities.
 * Event Scheduling: Plan and manage church events with an intuitive calendar and scheduling system.
@@ -41,8 +44,19 @@ The Church Management System is a comprehensive tool aimed at helping churches a
    python main.py
    ```
 
-# Video Guide
-For a detailed walkthrough on how to use this project, refer to the video linked below:
+# Usage
+* **Login:** Start by logging in with your credentials.
+* **Member Management:** Navigate to the "Members" section to manage church members.
+* **Event Scheduling:** Use the "Events" tab to schedule and view upcoming events.
+* **Donation Tracking:** Record donations under the "Donations" section.
+* **Reports:** Generate reports from the "Reports" menu for administrative purposes.
+
+# Database Schema 
+The database consists of the following tables:
+* **members**: Stores member information (name, contact details, etc.)
+* **events**: Contains data on scheduled events.
+* **donations**: Logs donations and contributions.
+* **users**: Handles user authentication and roles.
 
 # License
 This project is licensed under the MIT License. See the LICENSE file for more details.
